@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @asiiyerh
-- 👀 I’m interested in Data Analsis, Blockchain content creator, Smart contract developer
+- 👀 I’m interested in Data Analysis, Blockchain content creator, Smart contract developer
 - 🌱 I’m currently building my portfolio in data analysis and learning Smart contract
 - 💞️ I’m looking to collaborate on Content creation, data analysis
 - 📫 How to reach me danwakiliasiya89@gmail.com
